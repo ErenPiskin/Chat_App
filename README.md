@@ -17,6 +17,7 @@ Future Features: Foundations for GIF and voice message support have been laid an
 
 
 Screenshots
+<img src = "https://github.com/user-attachments/assets/b78cbe74-3949-4319-969f-ccc830bf5f60" width = "300">
 
 ![Screenshot 2024-07-27 144625](https://github.com/user-attachments/assets/b78cbe74-3949-4319-969f-ccc830bf5f60)
 ![Screenshot 2024-07-27 144635](https://github.com/user-attachments/assets/4633817f-7784-4ddc-ba9d-d6f52bcac7ec)
