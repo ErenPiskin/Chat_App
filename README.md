@@ -10,7 +10,10 @@ Media Sharing: Photos and videos can be shared within the chat.
 
 Emoji Support: Emojis can be used in messages to make communication more fun.
 
+Phone Number Authentication: Users can log in using their phone numbers for secure authentication.
+
 Future Features: Foundations for GIF and voice message support have been laid and will be available in future updates.
+
 
 
 Screenshots
