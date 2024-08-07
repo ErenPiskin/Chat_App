@@ -17,8 +17,14 @@ Future Features: Foundations for GIF and voice message support have been laid an
 
 
 Screenshots
-<img src = "https://github.com/user-attachments/assets/b78cbe74-3949-4319-969f-ccc830bf5f60" width = "300">
-<img src = "https://github.com/user-attachments/assets/4633817f-7784-4ddc-ba9d-d6f52bcac7ec" width = "300">
-<img src = "https://github.com/user-attachments/assets/c93ef17f-0554-49d5-a2c7-783921c50c64" width = "300">
-<img src = "https://github.com/user-attachments/assets/b0fcdb41-5cd6-41b9-a70b-ee370c58cc8c" width = "300">
-<img src = "https://github.com/user-attachments/assets/9fcc3e64-ba9c-4d7e-950e-242ca76e7150" width = "300">
+
+<img src = "https://github.com/user-attachments/assets/b78cbe74-3949-4319-969f-ccc830bf5f60" width = "300" height = "500">
+
+<img src = "https://github.com/user-attachments/assets/4633817f-7784-4ddc-ba9d-d6f52bcac7ec" width = "300"  height = "500">
+
+<img src = "https://github.com/user-attachments/assets/c93ef17f-0554-49d5-a2c7-783921c50c64" width = "300"  height = "500">
+
+<img src = "https://github.com/user-attachments/assets/b0fcdb41-5cd6-41b9-a70b-ee370c58cc8c" width = "300"  height = "500">
+
+<img src = "https://github.com/user-attachments/assets/9fcc3e64-ba9c-4d7e-950e-242ca76e7150" width = "300"  height = "500">
+
