@@ -1,11 +1,16 @@
 Chat Application
-This project is a comprehensive chat application that enables users to communicate with each other in real-time. The application is developed using Firebase and Riverpod.
+This project is a comprehensive chat application that enables users to communicate with each other in real-time.
+The application is developed using Firebase and Riverpod.
 
 Features
 Real-Time Communication: Users can send and receive messages instantly.
+
 Media Sharing: Photos and videos can be shared within the chat.
+
 Emoji Support: Emojis can be used in messages to make communication more fun.
+
 Future Features: Foundations for GIF and voice message support have been laid and will be available in future updates.
+
 
 Screenshots
 ![Screenshot 2024-07-27 144625](https://github.com/user-attachments/assets/b78cbe74-3949-4319-969f-ccc830bf5f60)
